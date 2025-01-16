@@ -1,8 +1,8 @@
 name: Check and Build
 
 env:
-  kernel_repository: PixelExperience-Devices/kernel_xiaomi_sdm845
-  kernel_branch: fourteen
+  kernel_repository: DawfukFR/kernel_oneplus_sm8250
+  kernel_branch: OOS13
   device: dipper
   clang_version: r487747c
   defconfig: |
